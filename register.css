@@ -1,0 +1,67 @@
+* {
+  background-size: cover;
+    font-family: 'Maven Pro', myfont;
+    box-sizing: border-box;
+  }
+  
+  body,html {
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0HDQ0NDQcNBw0HBwcHDQ8NDQcNFREWFhURExMYHSggGBolGxUTITEhJSkrLy4uFx80OEstPChFLjEBCgoKDQ0NDg0NDysZFRkrKzcrKzQrNys3LSsrLTc3LSsuKys3NCstKysrLSsrKys3KysrLSsrKysrKysrKysrK//AABEIAKgBLAMBIgACEQEDEQH/xAAaAAADAQEBAQAAAAAAAAAAAAABAgMABAUG/8QAJRABAAIDAQEAAgICAwEAAAAAAAECAxESEwQUYZPRFlMhM3EG/8QAGgEAAwEBAQEAAAAAAAAAAAAAAAECAwQGBf/EAB0RAQEBAQEBAQEBAQAAAAAAAAABEQISEwNRFCH/2gAMAwEAAhEDEQA/APh2HTaepx8oGHTaGAGHTaGAGHTaMMLCCYYA0KgGDQWDxC4QweCweFwjQaAiDxC4TRBtNEGiDIIgdGiBiDIuh5PFTRUJtTipoorFDRQmdqMUNFF4xnjEWo1zRjHydlcSlcKb0HB4t4vSj5x/HRe1Y8ucJJwvWn507YB6DybYiTienbCnOI9PXnTiJOJ6M4k5xAa8PTcr8Nwz8unUOW0vwHAwajoNLcNyMPUdNpXkORg1PQ6NptDAGhiB0aIOQBEGiBiDRC5CaIPENEHiFSE0QeIGsKRCyLEHipoqeKhNpIqaKqRVStAi9JRRSKK1opXGWs70jXGpXEvXGtTGm9I1z1xLUwOmmJ1YsDLrs5/1yY/mdOP5P09HB8ruxfNDm7/Ztzxrx6/F+j/hfp7lfng3hDC/s2n5vnrfF+kb/H+n0d8EIZMEK5/ZN4fNZPlct/nfSZfncWb52/P6ay6jwrYSTherkwozibSsrXy3m3m7PNvNrjo9OPzDzdvmHmMHpxTjLON2zjLOMYfpxTQs0dk4yzjLD9OTgOXTNCzQYrUORiqvDcng0kVPFTRU8VVINLFVIqMVPWqk6FaqVqNaqVqE2hWqlajWqlahnegrVStDVqrWqbWd6LWitaGrVWtUWo0K0WpQa1dGOrLroQ2HE78GJLFXS8ZIhzd9Wt+ZI68cRCsZIh5s/QSfpZfO1r9JHre0N7w8j8kPyR8R9nqzmhO2SHm/kt+QfyL6u28w58tU/cLZVTmxN6lQy0c1qOnJdC1m/Osenz/DcL8ty6z9IcBw6OW5A9OaaFnG6uQmoP045xknG7ZoSaBU6cU4yTjd00JOM1TpxTRuHVOMJoavTmihoqtwaKGNSiqlanih4qE3otaqVqNaqVqTO9BWqlajWqtalazvQVqrWrVhSIRajRrB6wEHhnQesOnG56qd6Z1fLonJpK2Zz3yJTcTg706ZyknK5pyEnIucI9OqcpZyuWchZyK8DXX6t7OOcgeh+BrujOPu8/0b1Lwe13WzJzlck5S+hzgCwbbbQtFm22wNbTabbAaGgmp2B6lNSzRfQchU6c80LNHTyHB6r05uB4dHAcDR6RihoqryaKjU3pOKnip4qeKlqLS1qpEDEGiE2paIPAQyQYdk2HRYa0WLbIjNyWuPKlLXTm6Vrp2uuQYtNyTdGblm6sHlablm6M3LNxivK83LN0JuE3NXlebh6Oeblm4Hl0+gdubtvQH5d/Q9I9N0bHFum6R6HoYeLdD0h0MWIYvEjtGLHixDFYHRIlSskTcjyesKRQtCHIcurzCcZeg5+W5WmjcjSTiBiD8joaRYgw6bRAAmRmC2ByBMp2s1rI2sci5DWuna5LXStdUipypa6c3TtdObqXOVZuWbozcs3C5ytNyzdGbkm4PyvNyzdCblm5afleblm6E3LNxp+XR2Hbn7DstGPX7bpHpulsfK3TdIdN0B5X7GLufsYuB5dUXPW7ki6lbkm8uutlqWcdbrUuVTeXbjl043Djs6sV2fUKR11oM4mxXdNWFti5zrjtiTnG9GaEnEJ2V4cHDcOycQeSvafDl4bh1TRO8D0fhzWhDJK+Wzjy3acn5TvZG9mvdz3u0ipya10bXLayVrKazk9rkmyc2LNgvDzcs2TmxJsWnik2LNk5sWbFoUmxZsnNizZOmpNizZObB0n0FJsHSew2XoPX6bpHpum2oxXpukug6Gni3TdIdN0NLHRF1K3ckWPW40ry7a3Wpdw1utS5ovL0KXdGPI82mRemRNiLy9bHldWPM8amV0UzMuuBHs1yni8PJrnVj6GN4XK9HqCzaHD+QW30DxTdd8kObLlc9/oc+TMvngj5cjjyXDJlc+TI2kGNkuhe4Xujay1yDaydrFtYk2C5DTYk2LMlmS0zTYk2CZJMptBpkJsWZLMptBpksyXYTKLQaZLsNgWg2w2AJ0PR6bpPoNujQp03Sew6GhTpukttstNbo0Wc/RoseljprdWt3JFlK2PSsdtbq1yOGt1K5FIvL0K5VK5XnxkPGQk+XoxmNGd50ZTepYePQ9yzmcPqE5SwY7LZkbZXPORO2Q8PFr5Eb3TtdO1zVIe10rWLNk5sNPDTYk2CZLMp0xmSzITJZlNoGZLMtMlmU2gZkJkNgm0NsGZIYGYiZmYB07DZdhtrpn2Gy7DZaZttsm22NB9miUtjEjQtFjRZGJNEqlC8WPF3PFhiytLHVFzRkcvQ9nox1eg+jl7bsaWOr0b0c3YdjTx0TkLN0ewmw0YrNyTZObFmw0HmxZkuwmU6BmQmS7DZaBmQ2GwTaB2Gw2CdIQZiAMzEGZgAEGYEpttsylBttsxBttsGBi22YAdjEsx6BiR6FlabbHoGMh6bpmGmPTdAx6TdNsGGhthsWIBsNsxEGwZiDbBmIgZmIAwMQFf4vjy/RfwxV6yRSckxuK6rGtzuf/AGGZPfXnm2HzNsju/wAb+3/TH8mP+2/xz7f9P6/7Kf2zOP8A09/yOj48t/jn2/6Y/kx/2Mf/ADX3T/z4x/Jj/tmH+nv+QfHl/9k=);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Segoe UI';
+  }
+  
+  form {
+    width: 40%;
+    margin-left: 30%;
+    padding-top: 10%;
+  }
+  
+  input {
+    width: 100%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 1rem;
+    padding: 0.5em 0.4em;
+    transition: all 0.4s;
+    color: #BDBDBD;;
+    margin: 0.7rem 0;
+  }
+  input:focus {
+    transform: scale3d(1.06,1.06,1.06);
+  }
+  
+  button {
+    background: transparent;
+    width: 50%;
+    margin-top: 2.5rem;
+    font-size: 1rem;
+    padding: 1em 0;
+    color: #bdc3c7;
+    transition: all 0.6s;
+  }
+  button:hover {
+    cursor:pointer;
+  }
+  
+  h1 {
+    color: #bdc3c7;
+    padding: 0 0 0.8em 0;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 1em;
+  }
+  @media (max-width: 550px) {
+    form {
+    width: 90%;
+    margin-left: 3%;
+    padding-top: 5%;
+  }
+    input {
+      font-size: 1em;
+    }
+  }
